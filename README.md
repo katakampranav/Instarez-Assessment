@@ -22,6 +22,7 @@ This application provides a comprehensive AI-powered solution for market researc
 ## Architecture
 ![Image](https://github.com/user-attachments/assets/f75617eb-378f-4fb7-81f4-88674799921d)
 
+
 ## Features
 - **Automated Company Research**: Gathers comprehensive company information
 - **Trend Analysis**: Identifies 3-5 key market trends
